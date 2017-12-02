@@ -1,0 +1,53 @@
+*{
+
+}
+
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+
+.header, #Designed, #footer {
+  background-image: url("./background.png");
+  background-repeat: no-repeat;
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  line-height: 60px;
+}
+
+#nav p a {
+  font-size: 18px;
+  color: white;
+}
+
+#Process {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+#Designed {
+  line-height: 60px;
+}
+
+#footer p {
+  text-align: left;
+  background-color: dimgray;
+  font-size: 16px;
+}
+
+#footer p a {
+  color: white;
+}
+
+#footer p span {
+    font-size: 11px;
+}
