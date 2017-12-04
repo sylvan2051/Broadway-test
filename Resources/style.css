@@ -1,19 +1,19 @@
-*{
 
-}
 
 body {
   text-align: center;
   font-family: Helvetica, sans-serif;
 }
 
-.header, #Designed, #footer {
+.header, 
+#Designed
+  {
   background-image: url("./background.png");
   background-repeat: no-repeat;
   color: white;
 }
 
-h1 {
+/*main title*/ h1 {
   font-size: 70px;
   font-weight: bold;
   line-height: 60px;
@@ -29,7 +29,8 @@ h1 {
   font-weight: bold;
 }
 
-h3 {
+
+/*Subtitles*/ h3 {
   font-size: 23px;
   font-weight: bold;
 }
